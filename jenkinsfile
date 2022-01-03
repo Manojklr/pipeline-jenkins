@@ -1,6 +1,6 @@
-jenkinsfile example
+Jenkinsfile example
 pipeline {
-agent slave02
+agent any
 stages {
 stage ('Build') {
 steps {
