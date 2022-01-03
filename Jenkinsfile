@@ -1,4 +1,4 @@
-Jenkinsfile example
+Jenkinsfile 
 pipeline{
 agent any
 stages{
